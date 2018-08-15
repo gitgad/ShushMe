@@ -16,7 +16,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="634558559367-q27ic5h68k0b3c654nfplh702d2co980.apps.googleusercontent.com"/>
+            android:value="AIzaSyDVcPIY4ztAsPg9pydXyunjqfZplLlm-BI"/>
 
         <activity android:name="com.example.android.shushme.MainActivity">
             <intent-filter>
